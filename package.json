@@ -2,17 +2,23 @@
   "name": "tokyo-dusk",
   "displayName": "Tokyo Dusk",
   "description": "A purple accent theme with VSCode Dark+ syntax highlighting.",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "publisher": "rbx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Roobyx/tokyo-dusk-theme.git"
+  },
   "engines": {
     "vscode": "^1.125.0"
   },
+  "icon": "./icon.jpg",
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Tokyo dusk",
+        "label": "Tokyo Dusk",
         "uiTheme": "vs-dark",
         "path": "./themes/Tokyo dusk-color-theme.json"
       }
