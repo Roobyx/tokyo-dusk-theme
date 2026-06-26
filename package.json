@@ -1,0 +1,21 @@
+{
+  "name": "tokyo-dusk",
+  "displayName": "Tokyo Dusk",
+  "description": "A purple accent theme with VSCode Dark+ syntax highlighting.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyo dusk-color-theme.json"
+      }
+    ]
+  }
+}
