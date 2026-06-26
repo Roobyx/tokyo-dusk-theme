@@ -5,7 +5,7 @@ A professional VS Code theme that combines a deep, moody background with vibrant
 
 A simple accent theme over the Dark+ theme with a purple twist, keeping the original code syntax that you already know.
 
-![Tokyo Dusk Preview](https://github.com/Roobyx/tokyo-dusk-theme/blob/master/preview.png)
+![Tokyo Dusk Preview](./preview.png)
 
 
 ## ✨ Features
