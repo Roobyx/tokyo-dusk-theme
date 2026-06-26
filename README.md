@@ -1,4 +1,4 @@
-```markdown
+
 # Tokyo Dusk 🌆
 
 A professional VS Code theme that combines a deep, moody background with vibrant **purple accents** and the familiar, highly readable **VSCode Dark+ syntax highlighting**.
